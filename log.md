@@ -5,3 +5,4 @@
 #### Started off slow. Finished one module of Front-end challenges on [freecodecamp.org] (https://www.freecodecamp.org/learn/)
 
 **Today's Progress**: Setting up my personal portfolio environment. Have already made the design document on figma. Started off with it. Made progress on landing page.
+![Day 0 Progress](https://github.com/saranshseth93/100-days-of-code/blob/Saransh-Patch-1/Github-Assets/Saransh-s-Arcade.gif)
